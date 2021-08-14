@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.snipbucket.org</loc>
+    <lastmod>2021-08-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.snipbucket.org/snip/4/How-to-reload-a-nginx-server-in-ubuntu</loc>
+    <lastmod>2021-08-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.snipbucket.org/snip/2/How-to-restart-a-redis-server-in-ubuntu</loc>
+    <lastmod>2021-08-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.snipbucket.org/snip/1/Check-supported-TLS-version-in-ubuntu</loc>
+    <lastmod>2021-08-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
